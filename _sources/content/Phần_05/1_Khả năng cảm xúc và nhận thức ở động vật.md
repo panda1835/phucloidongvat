@@ -10,7 +10,7 @@ Về mặt bản chất, cuộc sống của động vật phức tạp hơn ch�
 
 Một trường hợp đặc biệt được ghi nhận ở chuột, chuột là một loài động vật có tính xã hội cao, và chúng hình thành nên những mối quan hệ rất mạnh mẽ với những cá thể chúng dành thời gian ở cùng. Vì thế hai cá thể chuột cực kỳ thân nhau có thể cảm thấy đồng cảm với nhau. Điều này đã được mô tả thông qua các nghiên cứu về hành vi về việc một cá thể chuột bị đặt trong một ống nhựa không thể thoát ra và một cá thể chuột khác cố gắng để giải cứu con chuột kia khỏi ống, ngay cả khi nó không nhận được bất cứ lợi ích đặc biệt nào. 
 
-Video thí nghiệm
+Video thí nghiệm {cite:p}`edison_sanfelice_animals_2020`
 
 <iframe src="https://drive.google.com/file/d/1Y5tiAwBfhpImkQd4kCcXJfEGx_ZvljbJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -18,7 +18,7 @@ Giống như ở chuột, nghiên cứu về hành vi bây giờ cũng đã ch�
 
 Tiếp theo sau khả năng đồng cảm, chúng ta sẽ xem đến một khả năng khác như sự an ủi. Sự an ủi liên quan đến việc mang lại sự thoải mái về mặt tâm lý sau tai nạn, một tai nạn căng thẳng hoặc một sự cố đau thương đã xảy ra. Điều này được chứng kiến ở nhiều loài động vật khác nhau, đặc biệt là ở voi. 
 
-Video chứng minh
+Video chứng minh {cite:p}`the_new_york_times_elephant_2014`
 
 <iframe src="https://drive.google.com/file/d/153WG6QZ329f8KtVPjqB6PHfuollJC3wf/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -28,11 +28,11 @@ Và điều này được giải thích rất chi tiết bởi giáo sư Frans d
 
 .......
 
-Một số ví dụ khác về hành vi công bằng và đạo đức. Đầu tiên là ở khỉ mũ, một trường hợp về việc chia sẻ đồ ăn. Động vật thường hợp tác ở nhiều trường hợp trong cuộc sống, một vài trong số đó là để kiếm thức ăn. Trong trường hợp này, thức ăn rất khó để đạt được và hai cá thể này cần phải hợp tác với nhau, sau đó một cá thể sẽ lấy được thức ăn. Lúc này thì sự công bằng đã xuất hiện, khi nó chia sẻ thức ăn với cá thể chúng đã hợp tác để nó có thể có được thức ăn. Điều này được thể hiện ở video về khỉ mũ trong một trường hợp nghiên cứu hành vi
+Một số ví dụ khác về hành vi công bằng và đạo đức. Đầu tiên là ở khỉ mũ, một trường hợp về việc chia sẻ đồ ăn. Động vật thường hợp tác ở nhiều trường hợp trong cuộc sống, một vài trong số đó là để kiếm thức ăn. Trong trường hợp này, thức ăn rất khó để đạt được và hai cá thể này cần phải hợp tác với nhau, sau đó một cá thể sẽ lấy được thức ăn. Lúc này thì sự công bằng đã xuất hiện, khi nó chia sẻ thức ăn với cá thể chúng đã hợp tác để nó có thể có được thức ăn. Điều này được thể hiện ở video về khỉ mũ trong một trường hợp nghiên cứu hành vi {cite:p}`dj_italy_monkey_2013`.
 
 <iframe src="https://drive.google.com/file/d/1CcITeVwMj6ivqX0DLgATz3xjL2h0Iytx/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Một ví dụ khác là hành vi hợp tác ở loài cá bàng chài. Cá bàng chài là một loài cá sẽ hình thành nên những khu vực dọn dẹp, nơi những loài cá khác sẽ ghé thăm và được cá bàng chài lấy đi da chết và ký sinh trùng. Loài cá này thường làm việc theo nhóm, hai cá vệ sinh sẽ làm sạch một loài cá cụ thể. Đôi khi một trong hai cá vệ sinh có thể cắn mất một chút thịt từ cá khách hàng, và nếu chúng làm vậy, cá khách hàng thường sẽ rời đi. Điều này phá vỡ quy tắc đạo đức, luật lệ của chúng, những thứ mà cá đã hình thành nên cho sự cộng tác trong xã hội. Và điều sẽ xảy ra sau đó là hai con cá mắc lỗi sẽ bị khiển trách. Chúng ra sẽ thấy điều đó ở video này
+Một ví dụ khác là hành vi hợp tác ở loài cá bàng chài. Cá bàng chài là một loài cá sẽ hình thành nên những khu vực dọn dẹp, nơi những loài cá khác sẽ ghé thăm và được cá bàng chài lấy đi da chết và ký sinh trùng. Loài cá này thường làm việc theo nhóm, hai cá vệ sinh sẽ làm sạch một loài cá cụ thể. Đôi khi một trong hai cá vệ sinh có thể cắn mất một chút thịt từ cá khách hàng, và nếu chúng làm vậy, cá khách hàng thường sẽ rời đi. Điều này phá vỡ quy tắc đạo đức, luật lệ của chúng, những thứ mà cá đã hình thành nên cho sự cộng tác trong xã hội. Và điều sẽ xảy ra sau đó là hai con cá mắc lỗi sẽ bị khiển trách. Chúng ra sẽ thấy điều đó ở video này {cite:p}`smithsonian_channel_manta_2018`.
 
 <iframe src="https://drive.google.com/file/d/1dsfl2MSvvpm8rfQ4aH11-KKnccPsp2xn/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -46,11 +46,11 @@ Chúng ta cũng thấy điều này ở động vật trang trại, trong trư�
 
 Động vật cũng bày tỏ cảm xúc đau buồn, điều chúng ta nhận biết rất rõ khi một thành viên trong gia đình hoặc ai đó thân thuộc với chúng ta qua đời. Chúng ta sẽ trải qua một giai đoạn đau buồn và khổ sở, sẽ thay đổi hành vi và quan điểm của mình về cuộc sống. Điều này cũng được chứng kiến ở thế giới động vật. Một ví dụ cho hành vi này là ở tinh tinh, một thành viên trong cộng đồng bị chết và những tinh tinh khác sẽ đến bên nhau và quan sát cái xác, bày tỏ những hành vi tương tự như chúng ta, không gian cực kỳ tĩnh lặng, có rất ít sự phấn khích và vui vẻ ở đó. 
 
-Chúng ta cũng thấy điều này ở những loài động vật khác, trong trường hợp này là ở cá voi sát thủ trong môi trường nuôi nhốt. Điều này được thể hiện rất rõ thông qua quá trình thực hiện bộ phim “Blackfish”, phản ứng của cá voi sát thủ mẹ khi con của chúng bị bắt đi.
+Chúng ta cũng thấy điều này ở những loài động vật khác, trong trường hợp này là ở cá voi sát thủ trong môi trường nuôi nhốt. Điều này được thể hiện rất rõ thông qua quá trình thực hiện bộ phim “Blackfish”, phản ứng của cá voi sát thủ mẹ khi con của chúng bị bắt đi {cite:p}`awesomegryphon_mother_2014`.
 
 <iframe src="https://drive.google.com/file/d/1DldTSxTfTscpsNKLVVOChQce5rqbRhiN/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Dĩ nhiên, sự thể hiện đau buồn này cũng thấy ở các loài động vật khác, đặc biệt là ở bò, điểm chúng ta đã bàn ở phần trước. Bò bị tách khỏi con của mình trong ngành sữa để con người có thể dùng sữa bò.
+Dĩ nhiên, sự thể hiện đau buồn này cũng thấy ở các loài động vật khác, đặc biệt là ở bò, điểm chúng ta đã bàn ở phần trước. Bò bị tách khỏi con của mình trong ngành sữa để con người có thể dùng sữa bò {cite:p}`never_again_mothers_2014`.
 
 <iframe src="https://drive.google.com/file/d/15GmkBY4YcISiAvo0znDzTc4lBjgFoC4b/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -58,11 +58,11 @@ Ngoài ra, động vật cũng có khả năng nhận thức đặc biê�
 
 <iframe src="https://drive.google.com/file/d/1JZK2KEvlulMPYY6_h0x736vttb6lgiC0/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Khả năng giải quyết vấn đề cũng được ghi nhận ở vật nuôi như lợn, bò, cừu.
+Khả năng giải quyết vấn đề cũng được ghi nhận ở vật nuôi như lợn, bò, cừu {cite:p}`faithofreason_pigs_2008`.
 
 <iframe src="https://drive.google.com/file/d/1Yy7yEOiYC9tZB1XfVWWqnaxbqaKCq1pR/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Những khả năng giải quyết vấn đề này không chỉ thấy ở động vật có xương sống mà còn thấy ở động vật không xương sống, cụ thể ở đây là ong. Ong được giao nhiệm vụ lấy phần thưởng là thức ăn. Video này cho thấy ong không chỉ hoàn thành nhiệm vụ mà còn truyền kỹ năng đó cho những cá thể khác. Chúng học hỏi lẫn nhau làm sao để làm nhiệm vụ đó và kỹ năng có thể được truyền qua các thế hệ.
+Những khả năng giải quyết vấn đề này không chỉ thấy ở động vật có xương sống mà còn thấy ở động vật không xương sống, cụ thể ở đây là ong. Ong được giao nhiệm vụ lấy phần thưởng là thức ăn. Video này cho thấy ong không chỉ hoàn thành nhiệm vụ mà còn truyền kỹ năng đó cho những cá thể khác. Chúng học hỏi lẫn nhau làm sao để làm nhiệm vụ đó và kỹ năng có thể được truyền qua các thế hệ {cite:p}`hashem_al-ghaili_bees_2016`.
 
 <iframe src="https://drive.google.com/file/d/1GW--4RyWTSWDEh724mhEhaGZtdGUEBfR/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -80,6 +80,9 @@ Chúng ta thấy là động vật phức tạp hơn nhiều so với ch
 
 Hy vọng bài viết khiến bạn suy nghĩ về khả năng của động vật và bạn sẽ nhìn động vật theo cách khác không chỉ nhìn những động vật đẹp cuốn hút như voi, tinh tinh, cá heo như những cá thể có nhận thức phức tạp, mà còn có cái nhìn như vậy với lợn, gà, bò, các loài cá và động vật không xương sống, những loài cùng chia sẻ thế giới này với chúng ta, cũng có khả năng nhận thức và cảm xúc. 
 
-Xem video bài nói của Phòng Phúc lợi Động vật - Tổ chức Động vật Châu Á
+Xem video bài nói của Phòng Phúc lợi Động vật - Tổ chức Động vật Châu Á {cite:p}`animal_welfare_team_onelife_2022`. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IDbTCh74XIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```{bibliography}
+```
