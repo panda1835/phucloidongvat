@@ -80,7 +80,7 @@ Chúng ta thấy là động vật phức tạp hơn nhiều so với ch
 
 Hy vọng bài viết khiến bạn suy nghĩ về khả năng của động vật và bạn sẽ nhìn động vật theo cách khác không chỉ nhìn những động vật đẹp cuốn hút như voi, tinh tinh, cá heo như những cá thể có nhận thức phức tạp, mà còn có cái nhìn như vậy với lợn, gà, bò, các loài cá và động vật không xương sống, những loài cùng chia sẻ thế giới này với chúng ta, cũng có khả năng nhận thức và cảm xúc. 
 
-Xem video bài nói của Phòng Phúc lợi Động vật - Tổ chức Động vật Châu Á {cite:p}`animal_welfare_team_onelife_2022`. 
+Xem thêm video bài nói của Phòng Phúc lợi Động vật - Tổ chức Động vật Châu Á {cite:p}`animal_welfare_team_onelife_2022`. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IDbTCh74XIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
