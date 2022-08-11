@@ -1,0 +1,33 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: lời_mở_đầu
+chapters:
+- file: content/Giới_thiệu_các_phần/Phần_01.md
+  sections:
+  - glob: content/Phần_01/*
+- file: content/Giới_thiệu_các_phần/Phần_02.md
+  sections:
+  - glob: content/Phần_02/*
+- file: content/Giới_thiệu_các_phần/Phần_03.md
+  sections:
+  - glob: content/Phần_03/*
+- file: content/Giới_thiệu_các_phần/Phần_04.md
+  sections:
+  - glob: content/Phần_04/*
+- file: content/Giới_thiệu_các_phần/Phần_05.md
+  sections:
+  - glob: content/Phần_05/*
+- file: content/Giới_thiệu_các_phần/Phần_06.md
+  sections:
+  - glob: content/Phần_06/*
+- file: content/Giới_thiệu_các_phần/Phần_07.md
+  sections:
+  - glob: content/Phần_07/*
+- file: content/Giới_thiệu_các_phần/Phần_08.md
+  sections:
+  - glob: content/Phần_08/*
+- file: content/Giới_thiệu_các_phần/Phần_09.md
+  sections:
+  - glob: content/Phần_09/*
