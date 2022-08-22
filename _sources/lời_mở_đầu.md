@@ -6,5 +6,5 @@ Sổ tay được xây dựng và duy trì nhờ sự đóng góp nội dung c�
 
 ## Mục lục
 ```{tableofcontents}
-:depth: 1
+:depth: 2
 ```
