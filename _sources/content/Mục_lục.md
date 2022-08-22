@@ -1,4 +1,0 @@
-# Mục lục
-
-```{tableofcontents}
-```
