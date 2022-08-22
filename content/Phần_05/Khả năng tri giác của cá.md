@@ -1,1 +1,0 @@
-# Khả năng tri giác của cá
