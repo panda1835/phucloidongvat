@@ -12,7 +12,7 @@ Có rất nhiều giống loài động vật được sử dụng ở đây. M�
 
 ```{figure} ../../media/assets/Phan_03/dong_vat_trong_nghien_cuu/1.png
 ---
-height: 300px
+height: 500px
 name: bieu_do
 ---
 Biểu đồ của Liên minh Châu Âu về các loài động vật bị sử dụng trong thí nghiệm
