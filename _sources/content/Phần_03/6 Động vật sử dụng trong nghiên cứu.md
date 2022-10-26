@@ -12,15 +12,11 @@ Có rất nhiều giống loài động vật được sử dụng ở đây. M�
 
 ```{figure} ../../media/assets/Phan_03/dong_vat_trong_nghien_cuu/1.png
 ---
-height: 150px
-name: 123
+height: 300px
+name: bieu_do
 ---
 Biểu đồ của Liên minh Châu Âu về các loài động vật bị sử dụng trong thí nghiệm
 ```
-
-![image](../../media/assets/Phan_03/dong_vat_trong_nghien_cuu/1.png)
-
-Biểu đồ của Liên minh Châu Âu về các loài động vật bị sử dụng trong thí nghiệm
 
 ## Hoạt động nghiên cứu tại một số quốc gia
 Một nghiên cứu của Liên minh Châu Âu (EU) đã ước tính vào năm 2017, có 10,9 triệu thí nghiệm đã diễn ra trên động vật trên khắp EU. Hơn 12,6 triệu động vật đã bị phối giống rồi bị giết nhưng không được sử dụng trong thí nghiệm. Ước tính rằng chỉ có khoảng 20% trong số gần 11 triệu thí nghiệm là được yêu cầu bởi cơ quan quản lý, như vậy, một số lượng lớn thí nghiệm không phải là thú nghiệm quan trọng cần thực hiện. 
@@ -43,12 +39,10 @@ Quy trình xử lý cũng gây ra nhiều căng thẳng cho động vật thí n
 
 ```{figure} ../../media/assets/Phan_03/dong_vat_trong_nghien_cuu/2.png
 ---
-height: 150px
-name: 123
+height: 300px
+name: no_name
 ---
 ```
-
-![image](../../media/assets/Phan_03/dong_vat_trong_nghien_cuu/2.png)
 
 Quy trình nhận dạng, đặc biệt là đối với động vật nuôi nhốt theo nhóm, điều này có thể được thực hiện thông qua việc lấy đi một ít da, thường là phần ở tai, điều này một lần nữa có thể rất đau đớn cho động vật, khi chúng không được sử dụng thuốc gây tê. 
 
