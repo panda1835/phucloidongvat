@@ -2,7 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: lời_mở_đầu
+root: Lời_mở_đầu
+options:  # The options key will be applied to all chapters, but not sub-sections
+  numbered: True
 chapters:
 - file: content/Giới_thiệu_các_phần/Phần_01.md
   sections:
@@ -21,7 +23,12 @@ chapters:
   - glob: content/Phần_05/*
 - file: content/Giới_thiệu_các_phần/Thư_viện_PDF.md
   sections:
-  - glob: content/Thư_viện_PDF/*
+  - url: https://airtable.com/shrERSfx4SopJRTCG
+    title: Tài liệu tiếng Anh
+- file: content/Giới_thiệu_các_phần/Các_tổ_chức.md
+  sections:
+  - url: https://airtable.com/shrewRL3NguoU1nDB/tblxghogFEdZMuMjL
+    title: Các tổ chức làm về PLDV
 - file: content/Giới_thiệu_các_phần/Đóng_góp_nội_dung.md
   sections:
   - glob: content/Đóng_góp_nội_dung/*

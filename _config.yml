@@ -33,3 +33,6 @@ html:
 sphinx:
   config:
     bibtex_reference_style: author_year
+    language: vi
+
+only_build_toc_files: true # Disable building files that aren’t in the Table of Contents
