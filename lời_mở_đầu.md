@@ -24,7 +24,7 @@ Xin cảm ơn những người đã đóng góp cho sổ tay này.
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/tthuong123"><img src="https://avatars.githubusercontent.com/u/117075629?v=4?s=100" width="100px;" alt="tthuong123"/><br /><sub><b>tthuong123</b></sub></a><br /><a href="https://github.com/panda1835/phucloidongvat/issues?author=tthuong123" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/tthuong123"><img src="https://avatars.githubusercontent.com/u/117075629?v=4?s=100" width="100px;" alt="tthuong123"/><br /><sub><b>tthuong123</b></sub></a><br /><a href="https://github.com/panda1835/phucloidongvat/issues?q=author%3Atthuong123+label%3Acontent" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
