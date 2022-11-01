@@ -1,7 +1,7 @@
 # Lời mở đầu
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#lời-cảm-ơn)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Chào mừng bạn đến với Sổ tay Phúc lợi Động vật. Phúc lợi động vật đang dần trở thành khái niệm quen thuộc và được bàn luận nhiều trên các trang mạng xã hội ở Việt Nam. Cuốn sổ tay này là tổng hợp các kiến thức về phúc lợi động vật cho những ai mới bắt đầu hành trình tìm hiểu khái niệm này.
@@ -21,6 +21,22 @@ Xin cảm ơn những người đã đóng góp cho sổ tay này.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/tthuong123"><img src="https://avatars.githubusercontent.com/u/117075629?v=4?s=100" width="100px;" alt="tthuong123"/><br /><sub><b>tthuong123</b></sub></a><br /><a href="#content-tthuong123" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
