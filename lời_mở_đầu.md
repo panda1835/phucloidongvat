@@ -1,7 +1,7 @@
 # Lời mở đầu
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#lời-cảm-ơn)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#loi-cam-on)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Chào mừng bạn đến với Sổ tay Phúc lợi Động vật. Phúc lợi động vật đang dần trở thành khái niệm quen thuộc và được bàn luận nhiều trên các trang mạng xã hội ở Việt Nam. Cuốn sổ tay này là tổng hợp các kiến thức về phúc lợi động vật cho những ai mới bắt đầu hành trình tìm hiểu khái niệm này.
