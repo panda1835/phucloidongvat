@@ -3,7 +3,7 @@
   "projectOwner": "all-contributors",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md", "Lời_mở_đầu.md"],
+  "files": ["README.md", "lời_mở_đầu.md"],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
