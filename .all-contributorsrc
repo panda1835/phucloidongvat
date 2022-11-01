@@ -1,9 +1,12 @@
 {
-  "projectName": "all-contributors",
-  "projectOwner": "all-contributors",
+  "projectName": "phucloidongvat",
+  "projectOwner": "panda1835",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md", "lời_mở_đầu.md"],
+  "files": [
+    "README.md",
+    "lời_mở_đầu.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -19,5 +22,16 @@
   },
   "linkToUsage": true,
   "skipCi": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "tthuong123",
+      "name": "tthuong123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117075629?v=4",
+      "profile": "https://github.com/tthuong123",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "commitConvention": "angular"
 }
