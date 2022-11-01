@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Những người đóng góp
+## Lời cảm ơn
 Xin cảm ơn những người đã đóng góp cho sổ tay này.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
