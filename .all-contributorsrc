@@ -13,17 +13,6 @@
   "contributorsSortAlphabetically": false,
   "linkToUsage": true,
   "skipCi": true,
-  "contributors": [
-    {
-      "login": "tthuong123",
-      "name": "tthuong123",
-      "avatar_url": "https://avatars.githubusercontent.com/u/117075629?v=4",
-      "profile": "https://github.com/tthuong123",
-      "contributions": [
-        "content",
-        "blog"
-      ]
-    }
-  ],
+  "contributors": [],
   "commitConvention": "angular"
 }
